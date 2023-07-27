@@ -21,7 +21,10 @@ classDiagram
     }
 
     class Iphone {
-        
+       
     }
-    
+
+    Iphone --> AparelhoTelefonico
+    Iphone --> RepodutorMusicial
+    Iphone --> NavegadorNaInternet
  ```
