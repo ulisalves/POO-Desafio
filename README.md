@@ -1,4 +1,4 @@
-## Diagrama de Classes
+## Representação em UML POO - Desafio
 
 ```mermaid
 classDiagram
