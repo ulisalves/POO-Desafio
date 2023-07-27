@@ -2,19 +2,19 @@
 
 ```mermaid
 classDiagram
-    interface NavegadorNaInternet {
+    class NavegadorNaInternet {
         +exibirPagina()
         +adicionarNovaAba()
         +atualizarPagina()
     }
 
-    interface RepodutorMusicial {
+    class RepodutorMusicial {
         +tocar()
         +pausar()
         +selecionarMusica()
     }
 
-    interface AparelhoTelefonico {
+    class AparelhoTelefonico {
         +ligar()
         +atender()
 	+iniciarCorrerioVoz()
